@@ -19,7 +19,7 @@ export default function App() {
       <Content>
         <Raffle />
       </Content>
-      <Footer>&copy; FE DB Regtech Huddle 2021</Footer>
+      <Footer>&copy; FE Regtech Huddle 2021</Footer>
     </Layout>
   );
 }

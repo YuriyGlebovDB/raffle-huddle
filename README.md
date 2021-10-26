@@ -1,2 +1,2 @@
 # raffle-huddle
-Created with CodeSandbox
+Created with CodeSandbox. This is an app that selects next speakers for raffle.
